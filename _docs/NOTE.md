@@ -1,0 +1,4 @@
+- Pipecat [doc](https://docs.pipecat.ai/) [github](https://github.com/pipecat-ai/pipecat); [fork](https://github.com/EasonAgent/pipecat)
+    - [youtube1](https://www.youtube.com/watch?v=taAFXaQXCcI); [youtube2](https://www.youtube.com/watch?v=IA4lZjh9sTs)
+- DeepGram: <https://console.deepgram.com/>
+- Cartesia: <https://play.cartesia.ai/>
